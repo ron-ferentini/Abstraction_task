@@ -1,7 +1,7 @@
 <link rel='stylesheet' href='https://codefinity-content-media.s3.eu-west-1.amazonaws.com/css_custom_styles/StudyMore.css'>
 <link rel='stylesheet' href='https://codefinity-content-media.s3.eu-west-1.amazonaws.com/css_custom_styles/TextFormatting.css'>
 
-# Abstraction_task
+# Abstraction Task
 
 An abstract class called ``Shape`` has been created for you. It contains two abstract methods: ``calculateArea()`` and ``calculatePerimeter()``. Your task is to implement two classes: ``Rectangle`` and ``Circle``. You need to inherit these classes from the abstract class ``Shape`` and **override** its methods.
 Here's a brief guide:
